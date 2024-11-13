@@ -46,6 +46,7 @@
 - [ALPack](https://github.com/apptension/ALPack) - Boilerplate by Apptension
 - [Node Express Mongoose Boilerplate](https://github.com/hagopj13/node-express-mongoose-boilerplate) - Production-ready REST API boilerplate
 - [Hackathon Starter](https://github.com/sahat/hackathon-starter) - Boilerplate for Node.js web applications
+- [Express v5 + Typescript Template](https://github.com/seanpmaxwell/express5-typescript-template) - CRUD app for ExpressJS version 5 with TypeScript
 
 ### Python
 
