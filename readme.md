@@ -100,6 +100,9 @@
 
 - [SaaS Startup Kit](https://github.com/go-saas/kit) - Golang open source SaaS kit.
 
+### PHP
+- [Laravel](https://laravel.com/) - PHP Framework with a strong ecosystem.
+
 ### Other
 
 - [SupaNuxt SaaS](https://github.com/JavascriptMick/supanuxt-saas) - Open source Nuxt3 SaaS boilerplate.
