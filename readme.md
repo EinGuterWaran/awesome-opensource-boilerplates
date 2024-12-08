@@ -47,6 +47,7 @@
 
 Production-ready, open source templates for building software-as-a-service applications:
 
+- [fireact.dev](https://fireact.dev) - React/Typescript stack with Stripe, Firebase and i18n multilingual for B2B SaaS.
 - [Open SaaS](https://opensaas.sh) - React/Node.js/Prisma stack with Stripe/Lemon Squeezy, OpenAI, AWS S3, admin dashboard & blog.
 - [BoxyHQ SaaS Starter Kit](https://github.com/boxyhq/saas-starter-kit) - Enterprise-ready with SSO, audit logs, and multi-tenant features.
 - [Next.js SaaS Starter](https://github.com/leerob/next-saas-starter) - Next.js with Postgres, Stripe, and shadcn/ui.
@@ -69,6 +70,7 @@ Production-ready, open source templates for building software-as-a-service appli
 
 ### React & Next.js
 
+- [fireact.dev](https://fireact.dev) - React/Typescript stack with Stripe, Firebase and i18n multilingual for B2B SaaS.
 - [Open SaaS -- React/Node.js/Prisma](https://opensaas.sh) - Stripe or Lemon Squeezy, OpenAI API app examples, AWS S3 file upload, Admin dashboard, & Blog w/ Astro.
 - [Next.js SaaS Starter](https://github.com/leerob/next-saas-starter) - Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui.
 - [Next.js Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - Free and open source Next.js starter.
