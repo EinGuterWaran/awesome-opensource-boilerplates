@@ -76,6 +76,7 @@ Production-ready, open source templates for building software-as-a-service appli
 - [Next Supabase Stripe Starter](https://github.com/KolbySisk/next-supabase-stripe-starter) - Next.js with Supabase and Stripe.
 - [Nextacular](https://github.com/nextacular/nextacular) - Next.js SaaS boilerplate.
 - [SaaStr](https://github.com/aloysius-tim/saas-react-starter-kit-boilerplate) - React SaaS starter kit.
+- [Platforms Starter Kit](https://github.com/vercel/platforms) - The all-in-one starter kit for building multi-tenant applications.
 
 ### Node.js
 
