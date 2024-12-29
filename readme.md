@@ -94,6 +94,7 @@ Production-ready, open source templates for building software-as-a-service appli
 ### Python
 
 - [Rob's Awesome Python Template](https://github.com/tedivm/robs_awesome_python_template) - A versatile and modern Python template.
+- [Telegram Bot Template](https://github.com/hexfrost/fastapi-aiogram-template) - Simple and fast async Telegram Bot with Webhook with FastAPI and Aiogram
 
 ### Django
 
