@@ -28,7 +28,7 @@
 - [Browser Extensions](#browser-extensions)
 - [Web Development](#web-development)
   - [React & Next.js](#react--nextjs)
-  - [Sveltekit Boilerplates](#sveltekit-boilerplates)
+  - [Sveltekit](#sveltekit-boilerplates)
   - [Node.js](#nodejs)
   - [Python](#python)
   - [Django](#django)
