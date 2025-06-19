@@ -138,6 +138,8 @@ Production-ready, open source templates for building software-as-a-service appli
 ### Ruby on Rails
 
 - [Rails Tabler Starter](https://github.com/tarunvelli/rails-tabler-starter) - Ruby on Rails starter kit.
+- [Rails Hotwire Turbo TailwindCSS Starter](https://github.com/arish-me/rails-wheel/tree/micro-sass) - Ruby on Rails starter kit for Micro-sass.
+
 
 ### .NET Core
 
