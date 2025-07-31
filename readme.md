@@ -119,6 +119,7 @@ Production-ready, open source templates for building software-as-a-service appli
 - [ALPack](https://github.com/apptension/ALPack) - Boilerplate by Apptension.
 - [Node Express Mongoose Boilerplate](https://github.com/hagopj13/node-express-mongoose-boilerplate) - Production-ready REST API boilerplate.
 - [Hackathon Starter](https://github.com/sahat/hackathon-starter) - Boilerplate for Node.js web applications.
+- [MicroservicesArchitecture-NestJS-RabbitMQ](https://github.com/OwaliShawon/MicroservicesArchitecture-NestJS-RabbitMQ) - MicroservicesArchitecture-NestJS-RabbitMQ
 
 ### Python
 
