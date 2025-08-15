@@ -27,7 +27,7 @@
   <br>
   <br>
   <div>
-    <a href="https://feather-flow.com?utm_campaign=github_repo&utm_medium=referral&utm_content=awesome-opensource-boilerplates">
+    <a href="https://featherflow.com?utm_campaign=github_repo&utm_medium=referral&utm_content=awesome-opensource-boilerplates">
       <div>
         <img src="/featherflowlogo.png" width="300" alt="FeatherFlow">
       </div>
