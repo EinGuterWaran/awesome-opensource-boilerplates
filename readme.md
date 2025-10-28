@@ -32,9 +32,9 @@
         <img src="/featherflowlogo2.png" width="300" alt="FeatherFlow">
       </div>
       <br>
-      <b>Get your SaaS MVP built in weeks.</b>
+      <b>FeatherFlow is a product development studio. We design & build digital products, from zero to launch.</b>
       <div>
-        <sub>Find your first customer or pitch for investors. Our team builds your MVP for a fixed fee. </sub>
+        <sub>We're your strategic product team, designing, building and launching AI-first and SaaS products without the hiring delays or overhead of traditional agencies.</sub>
       </div>
     </a>
   </div>
