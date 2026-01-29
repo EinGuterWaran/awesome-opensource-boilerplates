@@ -73,7 +73,7 @@
 
 Production-ready, open source templates for building software-as-a-service applications:
 
-- [Open SaaS](https://opensaas.sh) - React/Node.js/Prisma stack with Stripe/Lemon Squeezy, OpenAI, AWS S3, admin dashboard & blog.
+- [Open SaaS](https://opensaas.sh) - React/Node.js/Prisma stack with Stripe/Polar.sh/Lemon Squeezy, OpenAI, AWS S3, admin dashboard & blog.
 - [BoxyHQ SaaS Starter Kit](https://github.com/boxyhq/saas-starter-kit) - Enterprise-ready with SSO, audit logs, and multi-tenant features.
 - [Next.js SaaS Starter](https://github.com/leerob/next-saas-starter) - Next.js with Postgres, Stripe, and shadcn/ui.
 - [SaaSgear](https://github.com/JSLancerTeam/saasgear) - Full-stack with authentication, billing, team management.
@@ -96,7 +96,7 @@ Production-ready, open source templates for building software-as-a-service appli
 
 ### React & Next.js
 
-- [Open SaaS -- React/Node.js/Prisma](https://opensaas.sh) - Stripe or Lemon Squeezy, OpenAI API app examples, AWS S3 file upload, Admin dashboard, & Blog w/ Astro.
+- [Open SaaS -- React/Node.js/Prisma](https://opensaas.sh) - Stripe, Polar.sh, or Lemon Squeezy, OpenAI API app examples, AWS S3 file upload, Admin dashboard, & Blog w/ Astro.
 - [Next.js SaaS Starter](https://github.com/leerob/next-saas-starter) - Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui.
 - [Next.js Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - Free and open source Next.js starter.
 - [Next.js Subscription Payments](https://github.com/vercel/nextjs-subscription-payments) - Vercel's subscription payments starter.
