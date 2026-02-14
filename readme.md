@@ -104,6 +104,7 @@ Production-ready, open source templates for building software-as-a-service appli
 - [Nextacular](https://github.com/nextacular/nextacular) - Next.js SaaS boilerplate.
 - [SaaStr](https://github.com/aloysius-tim/saas-react-starter-kit-boilerplate) - React SaaS starter kit.
 - [fireact.dev](https://fireact.dev) - React/Typescript stack with Stripe, Firebase and i18n multilingual for B2B SaaS.
+- [LaunchFast](https://github.com/Wittlesus/launchfast-starter) - Production-ready Next.js 16 SaaS boilerplate with NextAuth v5, Stripe, Prisma 6, Claude AI, and Resend.
 - [Platforms Starter Kit](https://github.com/vercel/platforms) - The all-in-one starter kit for building multi-tenant applications.
 
 
