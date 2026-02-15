@@ -45,7 +45,7 @@
 
 ## Other Cool Stuff
 
-- [Awesome Free SEO Backlinks](https://github.com/EinGuterWaran/awesome-free-seo-backlinks) - A curated list of free SEO backlinks and directories to help boost your site’s domain rating.
+- [Awesome Free SEO Backlinks](https://github.com/EinGuterWaran/awesome-free-seo-backlinks) - A curated list of free SEO backlinks and directories to help boost your site's domain rating.
 
 ## Contents
 
@@ -102,6 +102,7 @@ Production-ready, open source templates for building software-as-a-service appli
 - [Next.js Subscription Payments](https://github.com/vercel/nextjs-subscription-payments) - Vercel's subscription payments starter.
 - [Next Supabase Stripe Starter](https://github.com/KolbySisk/next-supabase-stripe-starter) - Next.js with Supabase and Stripe.
 - [Nextacular](https://github.com/nextacular/nextacular) - Next.js SaaS boilerplate.
+- [LaunchFast](https://github.com/Wittlesus/launchfast-starter) - Next.js SaaS boilerplate with NextAuth v5, Stripe, Claude AI integration, Prisma ORM, and 80+ E2E tests.
 - [SaaStr](https://github.com/aloysius-tim/saas-react-starter-kit-boilerplate) - React SaaS starter kit.
 - [fireact.dev](https://fireact.dev) - React/Typescript stack with Stripe, Firebase and i18n multilingual for B2B SaaS.
 - [Platforms Starter Kit](https://github.com/vercel/platforms) - The all-in-one starter kit for building multi-tenant applications.
@@ -172,7 +173,7 @@ Production-ready, open source templates for building software-as-a-service appli
 ### React Native
 
 - [Infinite Red Boilerplate](https://github.com/infinitered/ignite) - Infinite Red's battle-tested React Native project boilerplate, along with a CLI, component/model generators, and more.
-- [thecodingmachine boilerplate](https://github.com/thecodingmachine/react-native-boilerplate) - A React Native template for building solid applications 🐙, using JavaScript 💛 or Typescript 💙.
+- [thecodingmachine boilerplate](https://github.com/thecodingmachine/react-native-boilerplate) - A React Native template for building solid applications, using JavaScript or Typescript.
 - [obytes boilerplate](https://github.com/obytes/react-native-template-obytes) - A template for your next React Native project: Expo, PNPM, TypeScript, TailwindCSS, Husky, EAS, GitHub Actions, Env Vars, expo-router, react-query, react-hook-form.
 - [wataru-maeda boilerplate](https://github.com/wataru-maeda/react-native-boilerplate) - Expo + Redux + React Navigation pre-setup typescript template (expo SDK 51).
 
