@@ -86,6 +86,7 @@ Production-ready, open source templates for building software-as-a-service appli
 - [SupaNuxt SaaS](https://github.com/JavascriptMick/supanuxt-saas) - Nuxt3 boilerplate with Supabase backend.
 - [SaaS Startup Kit](https://github.com/go-saas/kit) - Golang kit with modern microservices architecture.
 - [fireact.dev](https://fireact.dev) - React/Typescript stack with Stripe, Firebase and i18n multilingual for B2B SaaS.
+- [NestJS SaaS Starter](https://github.com/OwaliShawon/Multi-Tenant-SaaS-Starter-NestJS.git) - Production-ready NestJS backend for building SaaS applications
 
 ## Browser Extensions
 
