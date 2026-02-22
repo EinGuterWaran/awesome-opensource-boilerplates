@@ -32,9 +32,9 @@
         <img src="/featherflowlogo2.png" width="300" alt="FeatherFlow">
       </div>
       <br>
-      <b>FeatherFlow is a product development studio. We design & build digital products, from zero to launch.</b>
+      <b>We design and build AI products from strategy to launch</b>
       <div>
-        <sub>We're your strategic product team, designing, building and launching AI-first and SaaS products without the hiring delays or overhead of traditional agencies.</sub>
+        <sub>We combine product strategy, UX, and engineering to turn complex ideas into production-ready AI solutions.</sub>
       </div>
     </a>
   </div>
