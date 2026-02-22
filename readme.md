@@ -99,7 +99,7 @@ Production-ready, open source templates for building software-as-a-service appli
 
 
 ### Sveltekit
-[CMSSaasstarter](https://github.com/CriticalMoments/CMSaasStarter) - A modern SaaS template/boilerplate built with SvelteKit, Tailwind, and Supabase. Includes marketing page, blog, subscriptions, auth, user dashboard, user settings, pricing page, and more.
+- [CMSSaasstarter](https://github.com/CriticalMoments/CMSaasStarter) - A modern SaaS template/boilerplate built with SvelteKit, Tailwind, and Supabase. Includes marketing page, blog, subscriptions, auth, user dashboard, user settings, pricing page, and more.
 
 
 
@@ -116,14 +116,12 @@ Production-ready, open source templates for building software-as-a-service appli
 
 ### Django
 
-- [Django SaaS Boilerplate](https://github.com/PaulleDemon/Django-SAAS-Boilerplate) - Open source Django SaaS boilerplate.
 - [djangorocket](https://github.com/ernestofgonzalez/djangorocket) - Django SaaS starter.
 
 ### Flask
 
 - [Flask App Builder](https://github.com/dpgaspar/Flask-AppBuilder) - Simple and rapid application development framework.
 - [Enferno Framework](https://github.com/level09/enferno) - Flask based framework.
-- [tedivm's Flask](https://github.com/tedivm/tedivms-flask) - Starter App with Flask and Celery.
 
 ### Ruby on Rails
 
@@ -133,14 +131,6 @@ Production-ready, open source templates for building software-as-a-service appli
 
 - [Clean Architecture and Domain Driven Design Template](https://github.com/mikolaj-jankowski/Clean-Architecture-And-Domain-Driven-Design-Solution-Template) - .NET Core solution template for creating your own application using Clean Architecture, utilizing building blocks from Domain-Driven Design.
 - [FullStackHero .NET 8 Starter Kit](https://github.com/fullstackhero/dotnet-starter-kit) - With ASP.NET Core Web API & Blazor Client.
-
-### Go
-
-- [SaaS Startup Kit](https://github.com/go-saas/kit) - Golang open source SaaS kit.
-
-### Other
-
-- [SupaNuxt SaaS](https://github.com/JavascriptMick/supanuxt-saas) - Open source Nuxt3 SaaS boilerplate.
 
 ## Mobile Development
 
@@ -152,9 +142,6 @@ Production-ready, open source templates for building software-as-a-service appli
 
 - [Swift 5 Module Template](https://github.com/fulldecent/swift5-module-template) - Boilerplate for reusable Swift 5 modules.
 
-### Flutter
-
-- [ShipFlutter base template](https://github.com/marcelpinto/ship-flutter-template) - A simple Flutter template with state management (signals) and dependency injection (lite_ref).
 
 ### React Native
 
