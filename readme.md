@@ -75,7 +75,7 @@ Production-ready, open source templates for building software-as-a-service appli
 
 - [Open SaaS](https://opensaas.sh) - React/Node.js/Prisma stack with Stripe/Polar.sh/Lemon Squeezy, OpenAI, AWS S3, admin dashboard & blog.
 - [BoxyHQ SaaS Starter Kit](https://github.com/boxyhq/saas-starter-kit) - Enterprise-ready with SSO, audit logs, and multi-tenant features.
-- [Next.js SaaS Starter](https://github.com/leerob/next-saas-starter) - Next.js with Postgres, Stripe, and shadcn/ui.
+- [Next.js SaaS Starter](https://github.com/nextjs/saas-starter) - Next.js with Postgres, Stripe, and shadcn/ui.
 - [Nextacular](https://github.com/nextacular/nextacular) - Next.js with workspaces and subscription management.
 - [SaaS Boilerplate by Async Labs](https://github.com/async-labs/saas) - Production-ready with team collaboration.
 - [djangorocket](https://github.com/ernestofgonzalez/djangorocket) - Django SaaS starter.
@@ -91,12 +91,9 @@ Production-ready, open source templates for building software-as-a-service appli
 ### React & Next.js
 
 - [Open SaaS -- React/Node.js/Prisma](https://opensaas.sh) - Stripe, Polar.sh, or Lemon Squeezy, OpenAI API app examples, AWS S3 file upload, Admin dashboard, & Blog w/ Astro.
-- [Next.js SaaS Starter](https://github.com/leerob/next-saas-starter) - Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui.
+- [Next.js SaaS Starter](https://github.com/nextjs/saas-starter) - Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui.
 - [Next.js Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - Free and open source Next.js starter.
-- [Next.js Subscription Payments](https://github.com/vercel/nextjs-subscription-payments) - Vercel's subscription payments starter.
-- [Next Supabase Stripe Starter](https://github.com/KolbySisk/next-supabase-stripe-starter) - Next.js with Supabase and Stripe.
 - [Nextacular](https://github.com/nextacular/nextacular) - Next.js SaaS boilerplate.
-- [SaaStr](https://github.com/aloysius-tim/saas-react-starter-kit-boilerplate) - React SaaS starter kit.
 - [fireact.dev](https://fireact.dev) - React/Typescript stack with Stripe, Firebase and i18n multilingual for B2B SaaS.
 - [Platforms Starter Kit](https://github.com/vercel/platforms) - The all-in-one starter kit for building multi-tenant applications.
 
