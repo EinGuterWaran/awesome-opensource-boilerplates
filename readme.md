@@ -105,13 +105,9 @@ Production-ready, open source templates for building software-as-a-service appli
 
 ### Node.js
 
-- [SaaSgear](https://github.com/JSLancerTeam/saasgear) - Full stack SaaS boilerplate.
 - [BoxyHQ SaaS Starter Kit](https://github.com/boxyhq/saas-starter-kit) - Enterprise-ready SaaS starter kit.
-- [SAAS-Starter-Kit](https://github.com/Saas-Starter-Kit/Saas-Kit-prisma) - Prisma based SaaS kit.
 - [SaaS Boilerplate by Async Labs](https://github.com/async-labs/saas) - Production-ready SaaS boilerplate.
 - [Graphile Starter](https://github.com/graphile/starter) - Full-stack application boilerplate.
-- [ALPack](https://github.com/apptension/ALPack) - Boilerplate by Apptension.
-- [Node Express Mongoose Boilerplate](https://github.com/hagopj13/node-express-mongoose-boilerplate) - Production-ready REST API boilerplate.
 - [Hackathon Starter](https://github.com/sahat/hackathon-starter) - Boilerplate for Node.js web applications.
 
 ### Python
