@@ -76,7 +76,6 @@ Production-ready, open source templates for building software-as-a-service appli
 - [Open SaaS](https://opensaas.sh) - React/Node.js/Prisma stack with Stripe/Polar.sh/Lemon Squeezy, OpenAI, AWS S3, admin dashboard & blog.
 - [BoxyHQ SaaS Starter Kit](https://github.com/boxyhq/saas-starter-kit) - Enterprise-ready with SSO, audit logs, and multi-tenant features.
 - [Next.js SaaS Starter](https://github.com/leerob/next-saas-starter) - Next.js with Postgres, Stripe, and shadcn/ui.
-- [SaaSgear](https://github.com/JSLancerTeam/saasgear) - Full-stack with authentication, billing, team management.
 - [Nextacular](https://github.com/nextacular/nextacular) - Next.js with workspaces and subscription management.
 - [SaaStr](https://github.com/aloysius-tim/saas-react-starter-kit-boilerplate) - React starter with authentication and billing.
 - [SAAS-Starter-Kit](https://github.com/Saas-Starter-Kit/Saas-Kit-prisma) - Prisma-based kit with user management.
