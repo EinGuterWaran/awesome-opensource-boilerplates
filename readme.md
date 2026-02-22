@@ -60,12 +60,9 @@
   - [Flask](#flask)
   - [Ruby on Rails](#ruby-on-rails)
   - [.NET Core](#net-core)
-  - [Go](#go)
-  - [Other](#other)
 - [Mobile Development](#mobile-development)
   - [Android](#android)
   - [iOS](#ios)
-  - [Flutter](#flutter)
   - [React Native](#react-native)
 - [Star History](#star-history)
 
