@@ -77,13 +77,8 @@ Production-ready, open source templates for building software-as-a-service appli
 - [BoxyHQ SaaS Starter Kit](https://github.com/boxyhq/saas-starter-kit) - Enterprise-ready with SSO, audit logs, and multi-tenant features.
 - [Next.js SaaS Starter](https://github.com/leerob/next-saas-starter) - Next.js with Postgres, Stripe, and shadcn/ui.
 - [Nextacular](https://github.com/nextacular/nextacular) - Next.js with workspaces and subscription management.
-- [SaaStr](https://github.com/aloysius-tim/saas-react-starter-kit-boilerplate) - React starter with authentication and billing.
-- [SAAS-Starter-Kit](https://github.com/Saas-Starter-Kit/Saas-Kit-prisma) - Prisma-based kit with user management.
 - [SaaS Boilerplate by Async Labs](https://github.com/async-labs/saas) - Production-ready with team collaboration.
-- [Django SaaS Boilerplate](https://github.com/PaulleDemon/Django-SAAS-Boilerplate) - Python/Django solution with subscription handling.
 - [djangorocket](https://github.com/ernestofgonzalez/djangorocket) - Django SaaS starter.
-- [SupaNuxt SaaS](https://github.com/JavascriptMick/supanuxt-saas) - Nuxt3 boilerplate with Supabase backend.
-- [SaaS Startup Kit](https://github.com/go-saas/kit) - Golang kit with modern microservices architecture.
 - [fireact.dev](https://fireact.dev) - React/Typescript stack with Stripe, Firebase and i18n multilingual for B2B SaaS.
 
 ## Browser Extensions
