@@ -93,6 +93,7 @@ Production-ready, open source templates for building software-as-a-service appli
 - [Nextacular](https://github.com/nextacular/nextacular) - Next.js SaaS boilerplate.
 - [fireact.dev](https://fireact.dev) - React/Typescript stack with Stripe, Firebase and i18n multilingual for B2B SaaS.
 - [Platforms Starter Kit](https://github.com/vercel/platforms) - The all-in-one starter kit for building multi-tenant applications.
+- [Agentic React Template](https://github.com/iscale-llc/agentic-react-nextjs-shadcn) - Agent-testable SaaS starter with Next.js 16, shadcn/ui, and Tailwind CSS. Accessibility-first components optimized for AI agent testing.
 
 
 ### Sveltekit
