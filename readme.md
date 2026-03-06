@@ -77,6 +77,7 @@ Production-ready, open source templates for building software-as-a-service appli
 - [SaaS Boilerplate by Async Labs](https://github.com/async-labs/saas) - Production-ready with team collaboration.
 - [djangorocket](https://github.com/ernestofgonzalez/djangorocket) - Django SaaS starter.
 - [fireact.dev](https://fireact.dev) - React/Typescript stack with Stripe, Firebase and i18n multilingual for B2B SaaS.
+- [My SaaS](https://github.com/ziotech-devs/my-saas) - A comprehensive SaaS boilerplate to launch faster and scale your app.
 
 ## Browser Extensions
 
@@ -92,6 +93,7 @@ Production-ready, open source templates for building software-as-a-service appli
 - [Next.js Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - Free and open source Next.js starter.
 - [Nextacular](https://github.com/nextacular/nextacular) - Next.js SaaS boilerplate.
 - [fireact.dev](https://fireact.dev) - React/Typescript stack with Stripe, Firebase and i18n multilingual for B2B SaaS.
+- [My SaaS](https://github.com/ziotech-devs/my-saas) - A comprehensive SaaS boilerplate to launch faster and scale your app.
 - [Platforms Starter Kit](https://github.com/vercel/platforms) - The all-in-one starter kit for building multi-tenant applications.
 
 
