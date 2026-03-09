@@ -83,6 +83,7 @@ Production-ready, open source templates for building software-as-a-service appli
 
 - [Extro](https://github.com/turbostarter/extro) - Open source browser extension starter kit.
 - [chrome extension svelte-typescript boilerplate](https://github.com/NekitCorp/chrome-extension-svelte-typescript-boilerplate) - Boilerplate for Chrome Extension Svelte Typescript project.
+- [DevKits](https://aiforeverthing.com) - 84+ free browser-based developer tools: JSON formatter, Base64 encoder, UUID generator, API tester, JWT decoder, CSS generators. PWA-ready, works offline, no signup required.
 
 ## Web Development
 
