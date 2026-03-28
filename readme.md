@@ -45,7 +45,7 @@
 
 ## Other Cool Stuff
 
-- [Awesome Free SEO Backlinks](https://github.com/EinGuterWaran/awesome-free-seo-backlinks) - A curated list of free SEO backlinks and directories to help boost your site’s domain rating.
+- [Awesome Free SEO Backlinks](https://github.com/EinGuterWaran/awesome-free-seo-backlinks) - A curated list of free SEO backlinks and directories to help boost your site's domain rating.
 
 ## Contents
 
@@ -78,6 +78,7 @@ Production-ready, open source templates for building software-as-a-service appli
 - [djangorocket](https://github.com/ernestofgonzalez/djangorocket) - Django SaaS starter.
 - [fireact.dev](https://fireact.dev) - React/Typescript stack with Stripe, Firebase and i18n multilingual for B2B SaaS.
 - [LastSaaS](https://github.com/jonradoff/lastsaas) - Open-source AI-native SaaS platform foundation with multi-tenant auth, Stripe billing, white-label branding, MCP server, webhooks, and admin dashboard. Built with Go, React, TypeScript, and MongoDB.
+- [ai-vertical-saas-gen](https://github.com/kurtnebiev-elvis4/ai-vertical-saas-gen) - Generate a complete vertical SaaS for any industry in one command. Next.js 14 + Supabase. Industry-specific data models, zero dependencies, offline.
 
 ## Browser Extensions
 
@@ -95,6 +96,7 @@ Production-ready, open source templates for building software-as-a-service appli
 - [fireact.dev](https://fireact.dev) - React/Typescript stack with Stripe, Firebase and i18n multilingual for B2B SaaS.
 - [LastSaaS](https://github.com/jonradoff/lastsaas) - Open-source AI-native SaaS platform foundation with multi-tenant auth, Stripe billing, white-label branding, MCP server, webhooks, and admin dashboard. Built with Go, React, TypeScript, and MongoDB.
 - [Platforms Starter Kit](https://github.com/vercel/platforms) - The all-in-one starter kit for building multi-tenant applications.
+- [ai-vertical-saas-gen](https://github.com/kurtnebiev-elvis4/ai-vertical-saas-gen) - Generate a complete vertical SaaS for any industry in one command. Next.js 14 + Supabase with industry-specific data models.
 
 
 ### Sveltekit
