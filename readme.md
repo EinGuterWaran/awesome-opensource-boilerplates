@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/einguterwaran-awesome-opensource-boilerplates-badge.png)](https://mseep.ai/app/einguterwaran-awesome-opensource-boilerplates)
+
 # Awesome Open Source SaaS Boilerplates [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badges/)
 
 > A curated collection of free Open-Source SaaS boilerplates and starter templates to build your next software-as-a-service project. Features enterprise-grade stacks from React/Node.js to Python/Django solutions.
