@@ -95,6 +95,8 @@ Production-ready, open source templates for building software-as-a-service appli
 - [fireact.dev](https://fireact.dev) - React/Typescript stack with Stripe, Firebase and i18n multilingual for B2B SaaS.
 - [LastSaaS](https://github.com/jonradoff/lastsaas) - Open-source AI-native SaaS platform foundation with multi-tenant auth, Stripe billing, white-label branding, MCP server, webhooks, and admin dashboard. Built with Go, React, TypeScript, and MongoDB.
 - [Platforms Starter Kit](https://github.com/vercel/platforms) - The all-in-one starter kit for building multi-tenant applications.
+- [create-next-shadcn-kit](https://github.com/NikunjSonigara/create-next-shadcn-kit) - Next.js SaaS boilerplate CLI with shadcn/ui, Tailwind CSS, optional Redux/Zustand, and production-ready structure.
+- [create-react-shadcn-kit](https://github.com/NikunjSonigara/create-react-shadcn-kit) - React (Vite) SaaS boilerplate CLI with shadcn/ui, Tailwind CSS, Redux Toolkit, and production-ready structure.
 
 
 ### Sveltekit
