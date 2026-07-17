@@ -9,7 +9,7 @@
   <div>
     <a href="https://boilerplatehub.com?utm_campaign=github_repo&utm_medium=referral&utm_content=awesome-opensource-boilerplates">
       <div>
-        <img src="/boilerplatehublogo.svg" width="400" alt="BoilerplateHub">
+        <img src="https://boilerplatehub.com/logo-light.svg" width="400" alt="BoilerplateHub">
       </div>
       <br>
       <b>While these open source boilerplates are great starting points, premium SaaS boilerplates offer more features and dedicated support.</b>
