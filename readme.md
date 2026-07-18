@@ -78,6 +78,7 @@ Production-ready, open source templates for building software-as-a-service appli
 - [djangorocket](https://github.com/ernestofgonzalez/djangorocket) - Django SaaS starter.
 - [fireact.dev](https://fireact.dev) - React/Typescript stack with Stripe, Firebase and i18n multilingual for B2B SaaS.
 - [LastSaaS](https://github.com/jonradoff/lastsaas) - Open-source AI-native SaaS platform foundation with multi-tenant auth, Stripe billing, white-label branding, MCP server, webhooks, and admin dashboard. Built with Go, React, TypeScript, and MongoDB.
+- [PageZERO](https://pagezero.dev) - Cloudflare-native React/TanStack Start SaaS starter.
 
 ## Browser Extensions
 
@@ -94,6 +95,7 @@ Production-ready, open source templates for building software-as-a-service appli
 - [Nextacular](https://github.com/nextacular/nextacular) - Next.js SaaS boilerplate.
 - [fireact.dev](https://fireact.dev) - React/Typescript stack with Stripe, Firebase and i18n multilingual for B2B SaaS.
 - [LastSaaS](https://github.com/jonradoff/lastsaas) - Open-source AI-native SaaS platform foundation with multi-tenant auth, Stripe billing, white-label branding, MCP server, webhooks, and admin dashboard. Built with Go, React, TypeScript, and MongoDB.
+- [PageZERO](https://pagezero.dev) - Cloudflare-native React/TanStack Start SaaS starter.
 - [Platforms Starter Kit](https://github.com/vercel/platforms) - The all-in-one starter kit for building multi-tenant applications.
 
 
