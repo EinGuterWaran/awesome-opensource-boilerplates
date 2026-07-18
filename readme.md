@@ -78,6 +78,7 @@ Production-ready, open source templates for building software-as-a-service appli
 - [djangorocket](https://github.com/ernestofgonzalez/djangorocket) - Django SaaS starter.
 - [fireact.dev](https://fireact.dev) - React/Typescript stack with Stripe, Firebase and i18n multilingual for B2B SaaS.
 - [LastSaaS](https://github.com/jonradoff/lastsaas) - Open-source AI-native SaaS platform foundation with multi-tenant auth, Stripe billing, white-label branding, MCP server, webhooks, and admin dashboard. Built with Go, React, TypeScript, and MongoDB.
+- [Velobase Harness](https://github.com/velobase/velobase-harness) - Open-source AI SaaS boilerplate with usage-based billing, Stripe payments, attribution, affiliates, anti-abuse, auth, multi-LLM chat, background workers, lifecycle email, and admin dashboard. Built with Next.js and the T3 stack.
 
 ## Browser Extensions
 
