@@ -78,6 +78,7 @@ Production-ready, open source templates for building software-as-a-service appli
 - [djangorocket](https://github.com/ernestofgonzalez/djangorocket) - Django SaaS starter.
 - [fireact.dev](https://fireact.dev) - React/Typescript stack with Stripe, Firebase and i18n multilingual for B2B SaaS.
 - [LastSaaS](https://github.com/jonradoff/lastsaas) - Open-source AI-native SaaS platform foundation with multi-tenant auth, Stripe billing, white-label branding, MCP server, webhooks, and admin dashboard. Built with Go, React, TypeScript, and MongoDB.
+- [SaaS Starter Lite](https://github.com/sayahweb2-png/saas-starter-lite) - Production-ready NestJS + Angular SaaS boilerplate with JWT/OAuth/2FA auth, Stripe payments, multi-tenancy, RBAC, Docker, and Terraform.
 
 ## Browser Extensions
 
@@ -108,6 +109,7 @@ Production-ready, open source templates for building software-as-a-service appli
 - [SaaS Boilerplate by Async Labs](https://github.com/async-labs/saas) - Production-ready SaaS boilerplate.
 - [Graphile Starter](https://github.com/graphile/starter) - Full-stack application boilerplate.
 - [Hackathon Starter](https://github.com/sahat/hackathon-starter) - Boilerplate for Node.js web applications.
+- [SaaS Starter Lite](https://github.com/sayahweb2-png/saas-starter-lite) - Production-ready NestJS + Angular SaaS boilerplate with JWT/OAuth/2FA auth, Stripe, multi-tenancy, RBAC, Docker, and Terraform.
 
 ### Python
 
