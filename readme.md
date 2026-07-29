@@ -88,6 +88,8 @@ Production-ready, open source templates for building software-as-a-service appli
 
 ### React & Next.js
 
+- [Claude AI SaaS Starter](https://github.com/moukie76/claude-saas-starter) - Next.js 14 AI SaaS starter with Claude streaming chat, Stripe billing, and Google Auth. Ship your AI product in a weekend.
+
 - [Open SaaS -- React/Node.js/Prisma](https://opensaas.sh) - Stripe, Polar.sh, or Lemon Squeezy, OpenAI API app examples, AWS S3 file upload, Admin dashboard, & Blog w/ Astro.
 - [Next.js SaaS Starter](https://github.com/nextjs/saas-starter) - Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui.
 - [Next.js Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - Free and open source Next.js starter.
