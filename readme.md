@@ -78,6 +78,7 @@ Production-ready, open source templates for building software-as-a-service appli
 - [djangorocket](https://github.com/ernestofgonzalez/djangorocket) - Django SaaS starter.
 - [fireact.dev](https://fireact.dev) - React/Typescript stack with Stripe, Firebase and i18n multilingual for B2B SaaS.
 - [LastSaaS](https://github.com/jonradoff/lastsaas) - Open-source AI-native SaaS platform foundation with multi-tenant auth, Stripe billing, white-label branding, MCP server, webhooks, and admin dashboard. Built with Go, React, TypeScript, and MongoDB.
+- [SpeedPy](https://github.com/speedpy/speedpy) - Free, MIT-licensed Django SaaS boilerplate with APIs, teams, billing, and an MCP server for AI agents.
 
 ## Browser Extensions
 
@@ -116,6 +117,7 @@ Production-ready, open source templates for building software-as-a-service appli
 ### Django
 
 - [djangorocket](https://github.com/ernestofgonzalez/djangorocket) - Django SaaS starter.
+- [SpeedPy](https://github.com/speedpy/speedpy) - Free, MIT-licensed Django SaaS boilerplate with APIs, teams, billing, and an MCP server for AI agents.
 
 ### Flask
 
