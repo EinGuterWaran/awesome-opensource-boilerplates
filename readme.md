@@ -9,7 +9,7 @@
   <div>
     <a href="https://boilerplatehub.com?utm_campaign=github_repo&utm_medium=referral&utm_content=awesome-opensource-boilerplates">
       <div>
-        <img src="/boilerplatehublogo.svg" width="400" alt="BoilerplateHub">
+        <img src="https://boilerplatehub.com/logo-light.svg" width="400" alt="BoilerplateHub">
       </div>
       <br>
       <b>While these open source boilerplates are great starting points, premium SaaS boilerplates offer more features and dedicated support.</b>
@@ -79,6 +79,7 @@ Production-ready, open source templates for building software-as-a-service appli
 - [fireact.dev](https://fireact.dev) - React/Typescript stack with Stripe, Firebase and i18n multilingual for B2B SaaS.
 - [LastSaaS](https://github.com/jonradoff/lastsaas) - Open-source AI-native SaaS platform foundation with multi-tenant auth, Stripe billing, white-label branding, MCP server, webhooks, and admin dashboard. Built with Go, React, TypeScript, and MongoDB.
 - [PageZERO](https://pagezero.dev) - Cloudflare-native React/TanStack Start SaaS starter.
+- [SpeedPy](https://github.com/speedpy/speedpy) - Free, MIT-licensed Django SaaS boilerplate with APIs, teams, billing, and an MCP server for AI agents.
 
 ## Browser Extensions
 
@@ -118,6 +119,7 @@ Production-ready, open source templates for building software-as-a-service appli
 ### Django
 
 - [djangorocket](https://github.com/ernestofgonzalez/djangorocket) - Django SaaS starter.
+- [SpeedPy](https://github.com/speedpy/speedpy) - Free, MIT-licensed Django SaaS boilerplate with APIs, teams, billing, and an MCP server for AI agents.
 
 ### Flask
 
