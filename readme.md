@@ -80,6 +80,7 @@ Production-ready, open source templates for building software-as-a-service appli
 - [LastSaaS](https://github.com/jonradoff/lastsaas) - Open-source AI-native SaaS platform foundation with multi-tenant auth, Stripe billing, white-label branding, MCP server, webhooks, and admin dashboard. Built with Go, React, TypeScript, and MongoDB.
 - [SpeedPy](https://github.com/speedpy/speedpy) - Free, MIT-licensed Django SaaS boilerplate with APIs, teams, billing, and an MCP server for AI agents.
 - [PageZERO](https://pagezero.dev) - Cloudflare-native React/TanStack Start SaaS starter.
+- [Next.js SaaS AI Starter](https://github.com/Create-Node-App/cna-templates/tree/main/templates/nextjs-saas-ai-starter) - Next.js multi-tenant SaaS with integrated AI (RAG), Auth.js v5, and PostgreSQL + pgvector.
 
 ## Browser Extensions
 
