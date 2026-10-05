@@ -152,6 +152,7 @@ Production-ready, open source templates for building software-as-a-service appli
 - [thecodingmachine boilerplate](https://github.com/thecodingmachine/react-native-boilerplate) - A React Native template for building solid applications 🐙, using JavaScript 💛 or Typescript 💙.
 - [obytes boilerplate](https://github.com/obytes/react-native-template-obytes) - A template for your next React Native project: Expo, PNPM, TypeScript, TailwindCSS, Husky, EAS, GitHub Actions, Env Vars, expo-router, react-query, react-hook-form.
 - [wataru-maeda boilerplate](https://github.com/wataru-maeda/react-native-boilerplate) - Expo + Redux + React Navigation pre-setup typescript template (expo SDK 51).
+- [Mobile App Code Template](https://github.com/robinsadeghpour/mobile-app-code-template) - MIT-licensed Expo + Supabase starter with email auth, deep links for confirmation and password reset, in-app account deletion, row level security, and Jest tests for the auth flows (Expo SDK 57).
 
 ## Star History
 
