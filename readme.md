@@ -80,6 +80,7 @@ Production-ready, open source templates for building software-as-a-service appli
 - [LastSaaS](https://github.com/jonradoff/lastsaas) - Open-source AI-native SaaS platform foundation with multi-tenant auth, Stripe billing, white-label branding, MCP server, webhooks, and admin dashboard. Built with Go, React, TypeScript, and MongoDB.
 - [SpeedPy](https://github.com/speedpy/speedpy) - Free, MIT-licensed Django SaaS boilerplate with APIs, teams, billing, and an MCP server for AI agents.
 - [PageZERO](https://pagezero.dev) - Cloudflare-native React/TanStack Start SaaS starter.
+- [Hype Stack](https://github.com/BetterTyped/hype-stack) - Free MIT fullstack SaaS monorepo with React, Hono, Vite, Postgres; Electron, Expo, browser extension; packs install as source; MCP server for agents.
 
 ## Browser Extensions
 
@@ -98,6 +99,7 @@ Production-ready, open source templates for building software-as-a-service appli
 - [LastSaaS](https://github.com/jonradoff/lastsaas) - Open-source AI-native SaaS platform foundation with multi-tenant auth, Stripe billing, white-label branding, MCP server, webhooks, and admin dashboard. Built with Go, React, TypeScript, and MongoDB.
 - [Platforms Starter Kit](https://github.com/vercel/platforms) - The all-in-one starter kit for building multi-tenant applications.
 - [PageZERO](https://pagezero.dev) - Cloudflare-native React/TanStack Start SaaS starter.
+- [Hype Stack](https://github.com/BetterTyped/hype-stack) - Free MIT fullstack SaaS monorepo: React, Hono, Vite, Postgres; Electron, Expo, browser extension; MCP server for agents.
 
 
 ### Sveltekit
@@ -111,6 +113,7 @@ Production-ready, open source templates for building software-as-a-service appli
 - [SaaS Boilerplate by Async Labs](https://github.com/async-labs/saas) - Production-ready SaaS boilerplate.
 - [Graphile Starter](https://github.com/graphile/starter) - Full-stack application boilerplate.
 - [Hackathon Starter](https://github.com/sahat/hackathon-starter) - Boilerplate for Node.js web applications.
+- [Hype Stack](https://github.com/BetterTyped/hype-stack) - Free MIT fullstack SaaS monorepo with React, Hono, Vite, and Postgres.
 
 ### Python
 
