@@ -111,6 +111,7 @@ Production-ready, open source templates for building software-as-a-service appli
 - [SaaS Boilerplate by Async Labs](https://github.com/async-labs/saas) - Production-ready SaaS boilerplate.
 - [Graphile Starter](https://github.com/graphile/starter) - Full-stack application boilerplate.
 - [Hackathon Starter](https://github.com/sahat/hackathon-starter) - Boilerplate for Node.js web applications.
+- [Nitrogen](https://github.com/mksd0398/nitrogen) - Shopify app boilerplate on Firebase (Cloud Functions, Firestore, Hosting), scaffolded, deployed and installed in one command.
 
 ### Python
 
