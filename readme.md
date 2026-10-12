@@ -134,6 +134,7 @@ Production-ready, open source templates for building software-as-a-service appli
 
 - [Clean Architecture and Domain Driven Design Template](https://github.com/mikolaj-jankowski/Clean-Architecture-And-Domain-Driven-Design-Solution-Template) - .NET Core solution template for creating your own application using Clean Architecture, utilizing building blocks from Domain-Driven Design.
 - [FullStackHero .NET 8 Starter Kit](https://github.com/fullstackhero/dotnet-starter-kit) - With ASP.NET Core Web API & Blazor Client.
+- [WebsitePlayground](https://github.com/Thorium/WebsitePlayground) - F# full-stack web template (Oxpecker, SignalR, SQLProvider, React/TypeScript) with branches for .NET 10 or .NET Framework 4.8.1 on SQL Server (SSDT) or MySQL/MariaDB.
 
 ## Mobile Development
 
