@@ -98,6 +98,7 @@ Production-ready, open source templates for building software-as-a-service appli
 - [LastSaaS](https://github.com/jonradoff/lastsaas) - Open-source AI-native SaaS platform foundation with multi-tenant auth, Stripe billing, white-label branding, MCP server, webhooks, and admin dashboard. Built with Go, React, TypeScript, and MongoDB.
 - [Platforms Starter Kit](https://github.com/vercel/platforms) - The all-in-one starter kit for building multi-tenant applications.
 - [PageZERO](https://pagezero.dev) - Cloudflare-native React/TanStack Start SaaS starter.
+- [Hikari](https://github.com/coremvp/Hikari) - Free MIT licensed Next.js starter with Supabase authentication and Stripe recurring billing for individual account applications.
 
 
 ### Sveltekit
