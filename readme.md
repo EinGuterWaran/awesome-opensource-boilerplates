@@ -30,7 +30,7 @@
   <div>
     <a href="https://featherflow.com?utm_campaign=github_repo&utm_medium=referral&utm_content=awesome-opensource-boilerplates">
       <div>
-        <img src="/featherflowlogo2.png" width="300" alt="FeatherFlow">
+        <img src="assets/featherflow-logo.png" width="300" alt="FeatherFlow">
       </div>
       <br>
       <b>We design and build AI products from strategy to launch</b>
