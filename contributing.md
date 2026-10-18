@@ -15,14 +15,26 @@ By participating in this project, you agree to abide by our [Contributor Code of
 
 ## Guidelines for Adding a New Boilerplate
 
-Please ensure your submission meets these criteria:
+Please ensure your submission meets **all** of these minimum requirements. Pull requests that don't will be closed.
 
-- **Open Source**: The boilerplate must have an open source license
-- **Active Maintenance**: Project should be actively maintained (updated within the last 6 months)
-- **Documentation**: Must have clear documentation and setup instructions
-- **Quality**: Should follow best practices and coding standards for its technology
-- **Uniqueness**: Avoid duplicating existing entries
-- **Format**: Follow the existing format in the README.md file
+- **Open Source**: The boilerplate must use an [OSI-approved license](https://opensource.org/licenses) (e.g. MIT, Apache-2.0, BSD, GPL). Source-available licenses such as Elastic License 2.0, BSL, SSPL or "free for non-commercial use" are not accepted.
+- **Boilerplate**: It must be a runnable starter template or boilerplate for an application. UI component libraries, frameworks, SDKs and single packages are out of scope.
+- **Not a teaser**: The core features must be part of the open source version. Free tiers of paid boilerplates are not accepted.
+- **Maturity**: The repository must be at least 3 months old.
+- **Active Maintenance**: The project must have been updated within the last 6 months.
+- **Adoption**: The repository must have at least 50 GitHub stars.
+- **Documentation**: Must have clear documentation and setup instructions.
+- **Quality**: Should follow best practices and coding standards for its technology.
+- **Uniqueness**: The project must not already be on the list.
+
+## Where Entries Go
+
+Each project is listed **exactly once**:
+
+- **Open Source SaaS Boilerplates**: Full SaaS starters that include authentication **and** billing/subscriptions, on any stack.
+- **Technology sections** (React & Next.js, Node.js, Python, …): All other starters and boilerplates for that technology.
+
+Pull requests that add the same project to several sections will be asked to pick one.
 
 ## Pull Request Format
 
@@ -30,12 +42,16 @@ When submitting a pull request, please:
 
 - Use the following format for adding entries:
   ```markdown
-  - [Project Name](link) - Brief description that explains what makes this boilerplate unique
+  - [Project Name](link) - Brief description that explains what makes this boilerplate unique.
   ```
-- Add new entries to the relevant category
+- Link directly to the repository or the project's homepage, without tracking, UTM or affiliate parameters
+- Keep the description to one sentence that starts with a capital letter and ends with a period
+- Describe the stack and features; skip marketing words such as "free", "best", "MIT-licensed" or "open source" (everything here is open source)
+- Add the entry at the end of the relevant section
+- Submit one project per pull request
+- Disclose in the pull request description if you are the author or maintainer
 - Check your spelling and grammar
 - Remove any trailing whitespace
-- Ensure your text editor is set to remove trailing spaces
 
 ## New Categories
 
@@ -59,11 +75,16 @@ Need help updating your PR? Check out [this guide on amending commits](https://g
 
 Before submitting, verify that your contribution:
 
-- [ ] Links to an active repository
-- [ ] Includes a meaningful description
-- [ ] Is placed in the correct category
+- [ ] Uses an OSI-approved open source license
+- [ ] Is a runnable boilerplate or starter template
+- [ ] Is at least 3 months old and was updated within the last 6 months
+- [ ] Has at least 50 GitHub stars
+- [ ] Includes a meaningful one-sentence description ending with a period
+- [ ] Links without tracking parameters
+- [ ] Is placed in exactly one, correct section
 - [ ] Follows the established format
 - [ ] Does not duplicate existing entries
+- [ ] Passes `npx awesome-lint`
 
 ## Questions?
 
