@@ -44,6 +44,10 @@
   <hr>
 </div>
 
+## Other Cool Stuff
+
+- [Awesome Free SEO Backlinks](https://github.com/EinGuterWaran/awesome-free-seo-backlinks) - A curated list of free SEO backlinks and directories to help boost your site’s domain rating.
+
 ## Contents
 
 - [.NET](#net)
