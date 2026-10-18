@@ -70,10 +70,9 @@ Production-ready, open source templates for building software-as-a-service appli
 - [BoxyHQ SaaS Starter Kit](https://github.com/boxyhq/saas-starter-kit) - Enterprise-ready with SSO, audit logs, and multi-tenant features.
 - [Next.js SaaS Starter](https://github.com/nextjs/saas-starter) - Next.js with PostgreSQL, Stripe, and shadcn/ui.
 - [Nextacular](https://github.com/nextacular/nextacular) - Next.js with workspaces and subscription management.
-- [SaaS Boilerplate by Async Labs](https://github.com/async-labs/saas) - Production-ready with team collaboration.
-- [djangorocket](https://github.com/ernestofgonzalez/djangorocket) - Django SaaS starter.
+- [djangorocket](https://github.com/ernestofgonzalez/djangorocket) - Django SaaS boilerplate with Stripe subscriptions, REST API, Tailwind CSS, Celery and Docker.
 - [fireact.dev](https://fireact.dev) - React/TypeScript stack with Stripe, Firebase and i18n multilingual for B2B SaaS.
-- [LastSaaS](https://github.com/jonradoff/lastsaas) - AI-native SaaS platform foundation with multi-tenant auth, Stripe billing, white-label branding, MCP server, webhooks, and admin dashboard. Built with Go, React, TypeScript, and MongoDB.
+- [LastSaaS](https://github.com/metavert-io/lastsaas) - AI-native SaaS platform foundation with multi-tenant auth, Stripe billing, white-label branding, MCP server, webhooks, and admin dashboard. Built with Go, React, TypeScript, and MongoDB.
 - [SpeedPy](https://github.com/speedpy/speedpy) - Django SaaS boilerplate with APIs, teams, billing, and an MCP server for AI agents.
 - [PageZERO](https://pagezero.dev) - Cloudflare-native React/TanStack Start SaaS starter.
 - [Hikari](https://github.com/coremvp/Hikari) - Next.js starter with Supabase authentication and Stripe subscription billing for individual-account apps.
@@ -81,24 +80,22 @@ Production-ready, open source templates for building software-as-a-service appli
 
 ## Browser Extensions
 
-- [Extro](https://github.com/turbostarter/extro) - Open source browser extension starter kit.
-- [chrome extension svelte-typescript boilerplate](https://github.com/NekitCorp/chrome-extension-svelte-typescript-boilerplate) - Boilerplate for Chrome Extension Svelte TypeScript project.
+- [Extro](https://github.com/turbostarter/extro) - TypeScript browser extension starter with OAuth, storage, messaging, i18n, hot reloading and one-click publishing.
 
 ## Web Development
 
 ### React & Next.js
 
-- [Next.js Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - Free and open source Next.js starter.
-- [Platforms Starter Kit](https://github.com/vercel/platforms) - The all-in-one starter kit for building multi-tenant applications.
+- [Next.js Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - Next.js starter with TypeScript, Tailwind CSS, Drizzle ORM, Vitest, Playwright, Storybook and Sentry.
 
 ### SvelteKit
 
-- [CMSSaasstarter](https://github.com/CriticalMoments/CMSaasStarter) - A modern SaaS template/boilerplate built with SvelteKit, Tailwind, and Supabase. Includes marketing page, blog, subscriptions, auth, user dashboard, user settings, pricing page, and more.
+- [CMSSaasstarter](https://github.com/scosman/CMSaasStarter) - A modern SaaS template/boilerplate built with SvelteKit, Tailwind, and Supabase. Includes marketing page, blog, subscriptions, auth, user dashboard, user settings, pricing page, and more.
 
 ### Node.js
 
-- [Graphile Starter](https://github.com/graphile/starter) - Full-stack application boilerplate.
-- [Hackathon Starter](https://github.com/sahat/hackathon-starter) - Boilerplate for Node.js web applications.
+- [Graphile Starter](https://github.com/graphile/starter) - SaaS quick-start with user accounts and organizations, built on React, Node.js, GraphQL, PostgreSQL and PostGraphile.
+- [Hackathon Starter](https://github.com/sahat/hackathon-starter) - Node.js and Express boilerplate with authentication via many OAuth providers and ready-made API examples.
 
 ### Python
 
@@ -106,12 +103,11 @@ Production-ready, open source templates for building software-as-a-service appli
 
 ### Flask
 
-- [Flask App Builder](https://github.com/dpgaspar/Flask-AppBuilder) - Simple and rapid application development framework.
-- [Enferno Framework](https://github.com/level09/enferno) - Flask based framework.
+- [Enferno Framework](https://github.com/level09/enferno) - Flask starter with Vue 3 and Vuetify without a build step, plus auth with 2FA, passkeys and OAuth.
 
 ### Ruby on Rails
 
-- [Rails Tabler Starter](https://github.com/tarunvelli/rails-tabler-starter) - Ruby on Rails starter kit.
+- [Rails Tabler Starter](https://github.com/tarunvelli/rails-tabler-starter) - Rails 8 starter with Tabler UI, Hotwire, Devise, Pundit, multi-tenancy and Kamal deployment.
 
 ### .NET Core
 
@@ -122,11 +118,11 @@ Production-ready, open source templates for building software-as-a-service appli
 
 ### Android
 
-- [Android Architecture Blueprints](https://github.com/googlesamples/android-architecture) - MVP architecture samples.
+- [Android Architecture Blueprints](https://github.com/android/architecture-samples) - Official samples showcasing architecture patterns for Android apps, including Jetpack Compose and MVVM.
 
 ### iOS
 
-- [Swift 5 Module Template](https://github.com/fulldecent/swift5-module-template) - Boilerplate for reusable Swift 5 modules.
+- [Swift 6 Module Template](https://github.com/fulldecent/swift6-module-template) - Boilerplate for reusable Swift 6 modules.
 
 ### React Native
 
@@ -134,11 +130,6 @@ Production-ready, open source templates for building software-as-a-service appli
 - [thecodingmachine boilerplate](https://github.com/thecodingmachine/react-native-boilerplate) - A React Native template for building solid applications 🐙, using JavaScript 💛 or TypeScript 💙.
 - [obytes boilerplate](https://github.com/obytes/react-native-template-obytes) - A template for your next React Native project: Expo, PNPM, TypeScript, Tailwind CSS, Husky, EAS, GitHub Actions, Env Vars, expo-router, react-query, react-hook-form.
 - [wataru-maeda boilerplate](https://github.com/wataru-maeda/react-native-boilerplate) - Expo + Redux + React Navigation pre-setup TypeScript template (Expo SDK 51).
-- [Mobile App Code Template](https://github.com/robinsadeghpour/mobile-app-code-template) - Expo + Supabase starter with email auth, deep links for confirmation and password reset, in-app account deletion, row level security, and Jest tests for the auth flows (Expo SDK 57).
-
-## Related Lists
-
-- [Awesome Free SEO Backlinks](https://github.com/EinGuterWaran/awesome-free-seo-backlinks) - A curated list of free SEO backlinks and directories to help boost your site’s domain rating.
 
 ## Star History
 

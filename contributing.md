@@ -21,7 +21,7 @@ Please ensure your submission meets **all** of these minimum requirements. Pull 
 - **Boilerplate**: It must be a runnable starter template or boilerplate for an application. UI component libraries, frameworks, SDKs and single packages are out of scope.
 - **Not a teaser**: The core features must be part of the open source version. Free tiers of paid boilerplates are not accepted.
 - **Maturity**: The repository must be at least 3 months old.
-- **Active Maintenance**: The project must have been updated within the last 6 months.
+- **Active Maintenance**: The project must have been updated within the last 12 months.
 - **Adoption**: The repository must have at least 50 GitHub stars.
 - **Documentation**: Must have clear documentation and setup instructions.
 - **Quality**: Should follow best practices and coding standards for its technology.
@@ -77,7 +77,7 @@ Before submitting, verify that your contribution:
 
 - [ ] Uses an OSI-approved open source license
 - [ ] Is a runnable boilerplate or starter template
-- [ ] Is at least 3 months old and was updated within the last 6 months
+- [ ] Is at least 3 months old and was updated within the last 12 months
 - [ ] Has at least 50 GitHub stars
 - [ ] Includes a meaningful one-sentence description ending with a period
 - [ ] Links without tracking parameters
