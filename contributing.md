@@ -18,7 +18,7 @@ By participating in this project, you agree to abide by our [Contributor Code of
 Please ensure your submission meets **all** of these minimum requirements. Pull requests that don't will be closed.
 
 - **Open Source**: The boilerplate must use an [OSI-approved license](https://opensource.org/licenses) (e.g. MIT, Apache-2.0, BSD, GPL). Source-available licenses such as Elastic License 2.0, BSL, SSPL or "free for non-commercial use" are not accepted.
-- **SaaS starter**: It must be a runnable starter template for building a SaaS product, with authentication plus billing, multi-tenancy or teams. General-purpose boilerplates, UI component libraries, frameworks, SDKs and single packages are out of scope.
+- **Boilerplate**: It must be a runnable starter template or boilerplate for an application. UI component libraries, frameworks, SDKs and single packages are out of scope.
 - **Not a teaser**: The core features must be part of the open source version. Free tiers of paid boilerplates are not accepted.
 - **Maturity**: The repository must be at least 3 months old.
 - **Active Maintenance**: The project must have been updated within the last 12 months.
@@ -29,7 +29,12 @@ Please ensure your submission meets **all** of these minimum requirements. Pull 
 
 ## Where Entries Go
 
-Each project is listed **exactly once**, in the section of its main framework or language (e.g. Next.js & React, Django). If no section fits, suggest a new one.
+Each project is listed **exactly once**:
+
+- **Open Source SaaS Boilerplates**: Full SaaS starters that include authentication **and** billing/subscriptions, on any stack.
+- **Technology sections** (React & Next.js, Node.js, Python, …): All other starters and boilerplates for that technology.
+
+Pull requests that add the same project to several sections will be asked to pick one.
 
 ## Pull Request Format
 
@@ -71,7 +76,7 @@ Need help updating your PR? Check out [this guide on amending commits](https://g
 Before submitting, verify that your contribution:
 
 - [ ] Uses an OSI-approved open source license
-- [ ] Is a runnable SaaS starter with authentication plus billing, multi-tenancy or teams
+- [ ] Is a runnable boilerplate or starter template
 - [ ] Is at least 3 months old and was updated within the last 12 months
 - [ ] Has at least 50 GitHub stars
 - [ ] Includes a meaningful one-sentence description ending with a period
