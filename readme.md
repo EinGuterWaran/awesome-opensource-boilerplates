@@ -117,6 +117,7 @@ Production-ready, open source templates for building software-as-a-service appli
 
 - [Clean Architecture and Domain Driven Design Template](https://github.com/mikolaj-jankowski/Clean-Architecture-And-Domain-Driven-Design-Solution-Template) - .NET Core solution template for creating your own application using Clean Architecture, utilizing building blocks from Domain-Driven Design.
 - [FullStackHero .NET Starter Kit](https://github.com/fullstackhero/dotnet-starter-kit) - Multi-tenant .NET starter with ASP.NET Core Web API and a Blazor client.
+- [Clean Minimal API](https://github.com/LeanMeanCleanApps/CleanMinimalApi) - .NET 10 Minimal API template with Clean Architecture, EF Core, Scalar, OpenTelemetry, and. optional JWT auth.
 
 ## Mobile Development
 
