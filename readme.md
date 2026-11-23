@@ -60,6 +60,7 @@
   - [Flask](#flask)
   - [Ruby on Rails](#ruby-on-rails)
   - [.NET Core](#net-core)
+  - [Go](#go)
 - [Mobile Development](#mobile-development)
   - [Android](#android)
   - [iOS](#ios)
@@ -117,6 +118,10 @@ Production-ready, open source templates for building software-as-a-service appli
 
 - [Clean Architecture and Domain Driven Design Template](https://github.com/mikolaj-jankowski/Clean-Architecture-And-Domain-Driven-Design-Solution-Template) - .NET Core solution template for creating your own application using Clean Architecture, utilizing building blocks from Domain-Driven Design.
 - [FullStackHero .NET Starter Kit](https://github.com/fullstackhero/dotnet-starter-kit) - Multi-tenant .NET starter with ASP.NET Core Web API and a Blazor client.
+
+### Go
+
+- [go-rest-template](https://github.com/antoniopaya22/go-rest-template) - Go REST API starter with chi, an OpenAPI 3.1 contract with request validation, JWT auth with refresh rotation, PostgreSQL or SQLite, Prometheus metrics and an init tool that removes unused features.
 
 ## Mobile Development
 
