@@ -100,6 +100,7 @@ Production-ready, open source templates for building software-as-a-service appli
 
 - [Graphile Starter](https://github.com/graphile/starter) - SaaS quick-start with user accounts and organizations, built on React, Node.js, GraphQL, PostgreSQL and PostGraphile.
 - [Hackathon Starter](https://github.com/sahat/hackathon-starter) - Node.js and Express boilerplate with authentication via many OAuth providers and ready-made API examples.
+- [Telegram Stars Bot Boilerplate](https://github.com/kraiwen23/telegram-stars-bot-boilerplate) - Telegram bot that sells subscriptions for Telegram Stars, running on Cloudflare Workers + D1 free tier: invoices, idempotent payment handling, refunds; one file, zero dependencies.
 
 ### Python
 
